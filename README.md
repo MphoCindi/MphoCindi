@@ -94,7 +94,7 @@ I believe the best way to learn is by building — so I'm continuously creating 
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mpho-cindi-089a1916a/
-* 📧 Email: Mpho Cindi
+* 📧 Email: cindimpho3@gmail.com
 
 ---
 
