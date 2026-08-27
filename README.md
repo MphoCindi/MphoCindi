@@ -13,8 +13,7 @@ I'm currently expanding my skills in **Python, SQL, data engineering, APIs, clou
 ## 🚀 What I'm Currently Working On
 
 * 🐍 Strengthening my Python programming skills
-* 📊 Learning more about data engineering and data analysis
-* 🤖 Building an AI-powered Career Coach application
+* 🤖 Building a job search guide application
 * 🔌 Developing projects that demonstrate API integration
 * 🔐 Learning backend authentication concepts, including JWT
 * ☁️ Exploring cloud and modern data technologies
